@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/LogMaker.dir/main.cpp.o  -o LogMaker -rdynamic source/libLogMakerLib.a 

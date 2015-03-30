@@ -1,0 +1,2 @@
+/usr/bin/ar cr libLogMakerLib.a  CMakeFiles/LogMakerLib.dir/LogMaker.cpp.o
+/usr/bin/ranlib libLogMakerLib.a
