@@ -1,2 +1,0 @@
-/home/kiev/workspace/LogRotate/build/CMakeFiles/LogMaker.dir
-/home/kiev/workspace/LogRotate/build/source/CMakeFiles/LogMakerLib.dir
